@@ -1,0 +1,7 @@
+C:\Tobeto\1A\CSharp\CSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\Tobeto\1A\CSharp\CSharpCourse\Methods\bin\Debug\Methods.exe
+C:\Tobeto\1A\CSharp\CSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\Tobeto\1A\CSharp\CSharpCourse\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Tobeto\1A\CSharp\CSharpCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\CSharpCourse\Methods\obj\Debug\Methods.exe
+C:\Tobeto\1A\CSharp\CSharpCourse\Methods\obj\Debug\Methods.pdb
