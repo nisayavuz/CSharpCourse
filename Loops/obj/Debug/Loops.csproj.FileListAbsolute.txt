@@ -1,0 +1,7 @@
+C:\Tobeto\1A\CSharp\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Tobeto\1A\CSharp\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Tobeto\1A\CSharp\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Tobeto\1A\CSharp\CSharpCourse\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Tobeto\1A\CSharp\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Tobeto\1A\CSharp\CSharpCourse\Loops\obj\Debug\Loops.pdb
