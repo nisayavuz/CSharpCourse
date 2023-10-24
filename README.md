@@ -1,8 +1,8 @@
 # CSharpCourse
 
-**Types and Variables**
-**Conditionals**
-**Loops**
-**Methods**
-**Arrays**
-**Strings**
+**Types and Variables**  
+**Conditionals**  
+**Loops**  
+**Methods**  
+**Arrays**  
+**Strings**  
