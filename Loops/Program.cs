@@ -55,15 +55,22 @@ namespace Loops
         private static bool IsPrimeNumber(int number)
         {
             bool result = true;
-            for (int i = 2; i < number-1; i++)
+            result = NewMethod();
+            return result;
+
+            bool NewMethod()
             {
-                if (number % i == 0)
+                for (int i = 2; i < number - 1; i++)
                 {
-                    result = false;
-                    i = number;
+                    if (number % i == 0)
+                    {
+                        result = false;
+                        i = number;
+                    }
                 }
+
+                return result;
             }
-            return result; 
         }
     }
 }
