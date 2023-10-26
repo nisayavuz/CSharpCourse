@@ -1,0 +1,7 @@
+C:\Tobeto\1A\CSharp\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Tobeto\1A\CSharp\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Tobeto\1A\CSharp\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Tobeto\1A\CSharp\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Tobeto\1A\CSharp\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Tobeto\1A\CSharp\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb
