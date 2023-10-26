@@ -6,3 +6,6 @@
 **Methods**  
 **Arrays**  
 **Strings**  
+**Classes**
+**Interfaces**
+**Inheritance**
